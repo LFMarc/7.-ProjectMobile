@@ -1,0 +1,769 @@
+fileFormatVersion: 2
+guid: b9a1f3125101ba7439d012b09ccb0186
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc9f4ac7b5ef964a835c25337790732
+      internalID: -766952679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 768
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a7b5c2251c28740825f1d695e9a1c4
+      internalID: 1736524273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 768
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f02f37065707047a5a9b59356fa677
+      internalID: -1798715863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 768
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebae908acefcf449b28cee6c8f6578f
+      internalID: -1590926761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 768
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b991fad5521b244ea5e2006cd9225c2
+      internalID: -69711227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 768
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6043ee8497570cb40b452f41fcbe0904
+      internalID: 305897968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_6
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 768
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726584ef2c68f7849af641c2765d8e33
+      internalID: -816495685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4bd41587ad7184ca7e416060b1f305
+      internalID: 1838599885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 512
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3424f16d811fcd84b9f5214400517790
+      internalID: -1437421880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 512
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269d7b295f73a1b4f89a2621eebaad7e
+      internalID: -449973070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 512
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29030ce3c555f034784214e5054f1366
+      internalID: 1816407605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_11
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 512
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8fbb326793ee74ca43ce94747dd93c
+      internalID: -1462560500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_12
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 512
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71ca764bd4b95142a4645843242d55b
+      internalID: -272816298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_13
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 512
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340bced1224fc124b9e6249c5846c9ee
+      internalID: 1690084055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3362f84444fd5842906adeb2d772ce8
+      internalID: 485703834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 256
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd22f74e534f48d4e8189d2f78ec0918
+      internalID: -1458748485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_16
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 256
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c751a7660d288944da02c5d04fd2d5ca
+      internalID: 1913053497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_17
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 256
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8b39b35ef92754b9ca6fd3e6fccc50
+      internalID: 120989993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 256
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbb1849ad9c86b4c9f6e21015ee1fd3
+      internalID: -1094550593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_19
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 256
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bca885ce049f644a4d5fa9fd88444f
+      internalID: 1454779775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_20
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 256
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bc61ed84f98a94892e30ed00dc33ad
+      internalID: 79634202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af318d93b7e136043aaa619b0604a25a
+      internalID: 1547554686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e63a3583507e6d4cacd0c184941f48e
+      internalID: 861368250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_23
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd649a2b3fb49c41baa8034d254b230
+      internalID: 1190366234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_24
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b1afd6c01f9d54c9f0f1586608597f
+      internalID: -1346973806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_25
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ee1e67c2b76c74db79322397bc0765
+      internalID: 449324364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_26
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 0
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e89baa9e44f96344b89802e0528e8a9
+      internalID: -280771180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_27
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 0
+        width: 146.28572
+        height: 256
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebee2b1b6c5930c4b995f8d47dba56b2
+      internalID: 1830241640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_0: -766952679
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_1: 1736524273
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_10: 1816407605
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_11: -1462560500
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_12: -272816298
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_13: 1690084055
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_14: 485703834
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_15: -1458748485
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_16: 1913053497
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_17: 120989993
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_18: -1094550593
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_19: 1454779775
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_2: -1798715863
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_20: 79634202
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_21: 1547554686
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_22: 861368250
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_23: 1190366234
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_24: -1346973806
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_25: 449324364
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_26: -280771180
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_27: 1830241640
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_3: -1590926761
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_4: -69711227
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_5: 305897968
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_6: -816495685
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_7: 1838599885
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_8: -1437421880
+      DALLE_2023-11-09_22.52.20_-_A_vibrant_and_colorful_vending_machine_filled_with_a_variety_of_whimsical_and_stylized_items._The_items_have_a_playful_and_exaggerated_design_featuri_9: -449973070
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
